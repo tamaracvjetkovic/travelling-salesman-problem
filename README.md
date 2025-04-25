@@ -25,7 +25,7 @@ Date: January, 2024.
   - ``selection`` – elitism and roulette wheel to choose parents,
   - ``crossover`` – creates children by combining genes from two parents,
   - ``mutation`` – swaps genes in routes randomly to maintain diversity
-- the program stops when the best distance doesn’t improve for 30 iterations (**convergence**).
+- the program stops when the best distance doesn’t improve for 30 iterations (**convergence**)
 
 ---
 
